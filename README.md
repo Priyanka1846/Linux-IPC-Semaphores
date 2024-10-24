@@ -123,7 +123,7 @@ $ ./sem.o
 
 $ ipcs
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/ad3309b7-9b86-44da-b454-82741238691a)
 
 
 
